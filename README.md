@@ -1,5 +1,27 @@
-# My ErgoDox (EZ) keymap
+# My [ErgoDox EZ](https://ergodox-ez.com/) keymap
 
-**Geared for programming and Wacom users.**
+**Geared for MacOS programmers and Wacom users.**
 
-![](screen.png)
+## Download
+
+Use [Teensy Loader](https://www.pjrc.com/teensy/loader.html) to load my keymap layout:
+
+* [`ergodox_firmware.hex`](ergodox_firmware.hex)
+
+## Keymap
+
+![](keymap.png)
+
+Here’s a GIF of all previous keymaps I’ve tested to get to the current layout above:
+
+![](keymap.gif)
+
+## Tip
+
+In order to get used to the new layout, I highly recommend printing out your keymap and putting it right in front of your keyboard:
+
+![](photo.png)
+
+## Links
+
+* [ErgoDox Layout Configurator](https://keyboard-configurator.massdrop.com/ext/ergodox)
