@@ -12,9 +12,7 @@ Use [Teensy Loader](https://www.pjrc.com/teensy/loader.html) to load my keymap l
 
 ![](keymap.png)
 
-Here’s a GIF of all previous keymaps I’ve tested to get to the current layout above:
-
-![](keymap.gif)
+[Here’s a GIF](keymap.gif) of all previous keymaps I’ve tested to get to the current layout above.
 
 ## Tip
 
